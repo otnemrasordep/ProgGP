@@ -8,26 +8,26 @@ ProgGP is:
 
 Number of songs per artist in the dataset comprise:
 
-{
-    'Born Of Osiris' : 11,
-    'Between The Buried And Me' : 23,
-    'The Contortionist' : 5,
-    'Cynic' : 1,
-    'Destrage' : 3,
-    'Dillinger Escape Plan' : 19,
-    'Gojira' : 27,
-    'Leprous' : 12,
-    'Mastodon' : 17,
-    'Necrophagist' : 8,
-    'Ne Obliviscaris' : 5,
-    'Opeth' : 3,
-    'Periphery' : 5,
-    'Protest The Hero' : 16,
-    'Sikth' : 11,
-    'Tesseract' : 1,
-    'Thank You Scientist' : 1,
-    'The Human Abstract' : 2,
-    'The Ocean' : 5  
+{  
+    'Born Of Osiris' : 11,  
+    'Between The Buried And Me' : 23,  
+    'The Contortionist' : 5,  
+    'Cynic' : 1,  
+    'Destrage' : 3,  
+    'Dillinger Escape Plan' : 19,  
+    'Gojira' : 27,  
+    'Leprous' : 12,  
+    'Mastodon' : 17,  
+    'Necrophagist' : 8,  
+    'Ne Obliviscaris' : 5,  
+    'Opeth' : 3,  
+    'Periphery' : 5,  
+    'Protest The Hero' : 16,  
+    'Sikth' : 11,  
+    'Tesseract' : 1,  
+    'Thank You Scientist' : 1,  
+    'The Human Abstract' : 2,  
+    'The Ocean' : 5    
 }
 
 ## Usage as per [DadaGP](https://github.com/dada-bots/dadaGP)
